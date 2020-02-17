@@ -14,3 +14,27 @@
   width: 240px;
   height: 58px;
 }
+
+li.item1 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -42px;
+}
+
+li.item2 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -100px;
+}
+
+li.item3 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -158px;
+}
+
+li.item4 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -216px;
+}
