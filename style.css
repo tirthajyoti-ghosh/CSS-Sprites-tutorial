@@ -3,3 +3,9 @@
   height: 0;
   padding: 30px;
 }
+
+#container ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
