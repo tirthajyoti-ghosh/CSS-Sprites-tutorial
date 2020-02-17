@@ -1,0 +1,40 @@
+#container {
+  background: url("csssprites.jpg") no-repeat 0px 12px;
+  height: 0;
+  padding: 30px;
+}
+
+#container ul {
+  display: flex;
+  justify-content: space-evenly;
+  list-style-type: none;
+}
+
+#container li {
+  width: 240px;
+  height: 58px;
+}
+
+li.item1 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -42px;
+}
+
+li.item2 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -100px;
+}
+
+li.item3 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -158px;
+}
+
+li.item4 {
+  background-image: url('csssprites.jpg');
+  background-repeat: no-repeat;
+  background-position: -55px -216px;
+}
